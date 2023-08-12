@@ -1,6 +1,9 @@
 # WARNING!
 using the program too many times in a short time period will seem like a DDos attack to the playdip server and so i suggest you be careful.
 
+# support me
+buy me a coffee in https://www.buymeacoffee.com/brorski062u
+
 # Playdiplomacy-status-check
 
 ## How it works
